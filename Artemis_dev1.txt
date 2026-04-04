@@ -1,1 +1,2 @@
 Artemis este o noua misiune pe luna
+This changed is made to understand .git
