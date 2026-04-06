@@ -1,2 +1,2 @@
 Artemis este o noua misiune pe luna
-This changed is made to understand .git
+Modif pt merge: A fost stearsa ultima linie,
